@@ -63,6 +63,6 @@ python test_model.py --image path/to/image.jpg
 Feel free to contribute! Open an **issue** or **pull request**. 😊  
 
 📧 **Contact**: [sandeshnakkawar32@gmail.com]  
-🌐 **GitHub**: [Sandesh527]  
+🌐 **GitHub**: [SandeshNakkawar]  
 
 ---
